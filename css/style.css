@@ -1,9 +1,25 @@
 /* test */
 
 .body{
-    background-color: brown;
+    background-color: white
+
 }
 
 .hero{
     color: yellow;
+}
+
+.nav-list{
+    color: yellow;
+}
+
+.list{
+    list-style: none;
+}
+.logo{
+    color: black;
+}
+
+.logo-link:hover{
+    color: red;
 }
